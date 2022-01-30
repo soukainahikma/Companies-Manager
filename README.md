@@ -18,9 +18,9 @@ Build
     cd Companies-Manager
 
 4. Build the image
-```
+    ```
     docker-compose build --no-cache
-```
+    ```
     docker-compose up
 
    ... This will take a few minutes.
