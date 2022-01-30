@@ -20,7 +20,6 @@ Build
 4. Build the image
 ```
     docker-compose build --no-cache
-
 ```
     docker-compose up
 
