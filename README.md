@@ -1,21 +1,21 @@
 # Companies-Manager
 
-Prerequisites
+## Prerequisites
 -----
 
-I assume you have installed Docker and it is running.
+### Docker Compose:
 
-See the [Docker website](http://www.docker.io/gettingstarted/#h_installation) for installation instructions.
+See the [Docker website](https://docs.docker.com/compose/install/) for more instructions.
 
-Build
+## Build
 -----
 
-1. Clone this repo
+1. Clone this repository
 
     ```
     git clone https://github.com/soukainahikma/Companies-Manager.git
     ```
-3. 
+3. Go inside the directory
     ```
     cd Companies-Manager
     ```
