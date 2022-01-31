@@ -7,7 +7,7 @@
 
 See the [Docker website](https://docs.docker.com/compose/install/) for more instructions.
 
-## Build
+### Build
 -----
 
 1. Clone this repository
