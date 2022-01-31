@@ -12,10 +12,13 @@ Build
 
 1. Clone this repo
 
-    git@github.com:soukainahikma/Companies-Manager.git
-
+    ```
+    git clone https://github.com/soukainahikma/Companies-Manager.git
+    ```
 3. 
+    ```
     cd Companies-Manager
+    ```
 
 4. Build the image
 
